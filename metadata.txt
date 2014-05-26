@@ -1,0 +1,13 @@
+[general]
+name=MTR Example Plugin
+description=Shows how to implement plugin layer compatible with MTR
+#category=
+version=1.0
+qgisMinimumVersion=2.0
+
+author=Martin Dobias
+email=wonder.sk@gmail.com
+
+#icon=icons/dbmanager.png
+
+#class_name=DBManagerPlugin
